@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RoshamboLab
+namespace UnitTestLab_Roshambo
 {
     public class RoshamboClass
     {
-        public string Winner(string firstPlayer, string secondPlayer)
+        public string Play(string firstPlayer, string secondPlayer)
         {
             string result;
 
